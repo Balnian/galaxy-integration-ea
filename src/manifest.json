@@ -1,0 +1,11 @@
+{
+    "name": "EA app plugin",
+    "platform": "EA",
+    "guid": "5d22d8b0-476b-44a3-b91d-96e2077e2398",
+    "version": "0.1",
+    "description": "EA app plugin for GOG Galaxy",
+    "author": "Balnian",
+    "email": "author@email.com",
+    "url": "https://github.com/Balnian/galaxy-integration-ea",
+    "script": "plugin.py"
+}
